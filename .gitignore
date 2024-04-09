@@ -36,3 +36,7 @@ yarn-error.log*
 next-env.d.ts
 /package-lock.json
 /.idea/git_toolbox_prj.xml
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/prettier.xml
+/.idea/codeStyles/Project.xml
+/.idea/cody_history.xml
